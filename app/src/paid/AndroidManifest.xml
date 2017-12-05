@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application>
+        <activity android:name="com.example.shivammaheshwari.joketeller.MainActivity" />
+        <activity android:name="com.example.shivammaheshwari.joketeller.paid.MainActivityFragment" />
+        <activity android:name="com.example.shivammaheshwari.joketeller.MainActivityFragment"></activity>
+    </application>
+
+</manifest>
